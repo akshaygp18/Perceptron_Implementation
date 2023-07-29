@@ -18,3 +18,9 @@ conda create -p ./env python=3.7 -y
 conda activate ./env
 ```
 
+### Make directory command in cmd
+```
+mkdir Research_env
+```
+
+
